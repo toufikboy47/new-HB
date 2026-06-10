@@ -1,0 +1,8 @@
+{
+  "name": "Aria's Birthday Surprises Portal",
+  "description": "An interactive, ultra-luxurious digital memoir and surprise OS dashboard curated for celebrating Aria's birthday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
